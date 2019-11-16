@@ -1,0 +1,52 @@
+@media only screen and (max-width: 700px){
+    .box1,.box2,.box3{
+         width: 50%;
+         flex-direction: column;
+     }
+   
+}
+@media only screen and (max-width: 700px){
+    .box4{
+         width: 50%;
+         flex-direction: column;
+         margin-bottom: 25%;
+     }
+   
+}
+@media only screen and (max-width: 700px){
+    .r1,.r2,.r3{
+         width: 70%;
+         flex-direction: column;
+         margin-bottom: 25%;
+     }
+   
+}
+@media only screen and (max-width: 700px){
+    .bu1{
+         float: right;
+         width: 80%;
+           
+     }
+   
+}
+@media only screen and (max-width: 700px){
+    .bu2{
+         float: left;
+         width: 50%;
+     }
+   
+}
+
+@media only screen and (max-width: 700px){
+    p{
+        font-size: 12px;
+     }
+   
+}
+
+@media only screen and (max-width: 700px){
+h1{
+        font-size: 20px;
+     }
+   
+}
